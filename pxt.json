@@ -7,7 +7,7 @@
         "core": "*",
         "SSD1306_OLED": "github:tinkertanker/pxt-oled-ssd1306#v2.0.13",
         "ds1307": "github:elecfreaks/pxt-ds1307-rtc",
-        "ESP8266_IoT": "github:cordx56/pxt-esp8266iot#fix/gpbl2023"
+        "ESP8266_IoT": "github:cordx56/pxt-esp8266iot#gpbl-http-get"
     },
     "files": [
         "environment.ts",
